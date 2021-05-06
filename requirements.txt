@@ -1,0 +1,2 @@
+openpyxl==3.0.7
+slackbot==1.0.0
